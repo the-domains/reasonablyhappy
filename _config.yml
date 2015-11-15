@@ -1,0 +1,23 @@
+name: reasonablyhappy
+favicon: null
+layout_spectrum: 0.09041952854022384
+typography_spectrum: 0.3886507891584188
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.7217040564864874
+  lightness: 0.443081000354141
+  saturation: 0.5321125630289316
+  rhythmicContrast: 0.0021793122868984938
+purpose: []
